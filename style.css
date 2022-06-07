@@ -1,45 +1,3 @@
-
-<title>CSS Website Layout</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
-
-/* Style the header */
-.header {
-  background-color: #35605A;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: #EE99C1;
-}
-
-/* Style the topnav links */
-.topnav a {
-  float: center;
-  display: block;
-  color: #048A81;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change color on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-</style>
 body {
   background-color: #6ED897
 }
@@ -78,33 +36,3 @@ li a:hover {
 body {
   margin: 0;
 }
-
-/* Style the header */
-.header {
-  background-color: #35605A;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: #EE99C1;
-}
-
-/* Style the topnav links */
-.topnav a {
-  float: center;
-  display: block;
-  color: #048A81;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change color on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
